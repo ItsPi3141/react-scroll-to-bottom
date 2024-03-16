@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/react-scroll-to-bottom-updated/static/js/main.074895f2.chunk.js",
+    "main.js.map": "/react-scroll-to-bottom-updated/static/js/main.074895f2.chunk.js.map",
+    "runtime-main.js": "/react-scroll-to-bottom-updated/static/js/runtime-main.84dbaf82.js",
+    "runtime-main.js.map": "/react-scroll-to-bottom-updated/static/js/runtime-main.84dbaf82.js.map",
+    "static/js/2.21da6ba7.chunk.js": "/react-scroll-to-bottom-updated/static/js/2.21da6ba7.chunk.js",
+    "static/js/2.21da6ba7.chunk.js.map": "/react-scroll-to-bottom-updated/static/js/2.21da6ba7.chunk.js.map",
+    "static/js/3.c0d8b605.chunk.js": "/react-scroll-to-bottom-updated/static/js/3.c0d8b605.chunk.js",
+    "static/js/3.c0d8b605.chunk.js.map": "/react-scroll-to-bottom-updated/static/js/3.c0d8b605.chunk.js.map",
+    "index.html": "/react-scroll-to-bottom-updated/index.html",
+    "static/js/2.21da6ba7.chunk.js.LICENSE.txt": "/react-scroll-to-bottom-updated/static/js/2.21da6ba7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84dbaf82.js",
+    "static/js/2.21da6ba7.chunk.js",
+    "static/js/main.074895f2.chunk.js"
+  ]
+}
