@@ -1,22 +1,22 @@
 {
   "redirects": [
     {
-      "destination": "/react-scroll-to-bottom/",
+      "destination": "/react-scroll-to-bottom-updated/",
       "source": "/"
     }
   ],
   "rewrites": [
     {
       "destination": "build/index.html",
-      "source": "/react-scroll-to-bottom"
+      "source": "/react-scroll-to-bottom-updated"
     },
     {
       "destination": "build/:filename",
-      "source": "/react-scroll-to-bottom/:filename"
+      "source": "/react-scroll-to-bottom-updated/:filename"
     },
     {
       "destination": "build/static/:dirname/:filename",
-      "source": "/react-scroll-to-bottom/static/:dirname/:filename"
+      "source": "/react-scroll-to-bottom-updated/static/:dirname/:filename"
     }
   ]
 }

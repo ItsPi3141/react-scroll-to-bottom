@@ -24,12 +24,12 @@
       "source": "/test-harness.js.map"
     },
     {
-      "destination": "/packages/component/dist/react-scroll-to-bottom.development.js",
-      "source": "/react-scroll-to-bottom.development.js"
+      "destination": "/packages/component/dist/react-scroll-to-bottom-updated.development.js",
+      "source": "/react-scroll-to-bottom-updated.development.js"
     },
     {
-      "destination": "/packages/component/dist/react-scroll-to-bottom.development.js.map",
-      "source": "/react-scroll-to-bottom.development.js.map"
+      "destination": "/packages/component/dist/react-scroll-to-bottom-updated.development.js.map",
+      "source": "/react-scroll-to-bottom-updated.development.js.map"
     },
     {
       "destination": "/__tests__/assets/:filename",
