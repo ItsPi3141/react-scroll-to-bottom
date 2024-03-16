@@ -17,5 +17,5 @@ function setMetaTag(name, content) {
 }
 
 export default function addVersionToMetaTag() {
-  setMetaTag('react-scroll-to-bottom-updated:version', process.env.npm_package_version);
+  setMetaTag('react-scroll-to-bottom:version', process.env.npm_package_version);
 }
