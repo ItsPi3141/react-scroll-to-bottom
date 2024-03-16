@@ -1,5 +1,5 @@
 {
-  "name": "react-scroll-to-bottom-updated",
+  "name": "react-scroll-to-bottom-updated-updated",
   "version": "0.0.0-0",
   "description": "React container that will auto scroll to bottom",
   "keywords": [
@@ -26,7 +26,7 @@
     "build:babel": "concurrently \"npm run build:babel:*\"",
     "build:babel:cjs": "babel --config-file ./babel.cjs.config.json --out-dir lib --ignore **/*.spec.js,**/*.test.js --source-maps inline --verbose src/",
     "build:babel:esm": "babel --config-file ./babel.esm.config.json --out-dir lib/esm --ignore **/*.spec.js,**/*.test.js --source-maps inline --verbose src/",
-    "build:esbuild": "esbuild lib/esm/browser.js --bundle --define:process=\"{\\\"env\\\":{}}\" --metafile=dist/meta.json --outfile=dist/react-scroll-to-bottom.development.js --sourcemap --target=chrome80",
+    "build:esbuild": "esbuild lib/esm/browser.js --bundle --define:process=\"{\\\"env\\\":{}}\" --metafile=dist/meta.json --outfile=dist/react-scroll-to-bottom-updated.development.js --sourcemap --target=chrome80",
     "build:test-harness": "cp ../test-harness/dist/* dist/",
     "eslint": "eslint src/**/*.js --ignore-pattern *.spec.js --ignore-pattern *.test.js",
     "precommit": "eslint",
@@ -41,12 +41,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/compulim/react-scroll-to-bottom.git"
+    "url": "git+https://github.com/compulim/react-scroll-to-bottom-updated.git"
   },
   "bugs": {
-    "url": "https://github.com/compulim/react-scroll-to-bottom/issues"
+    "url": "https://github.com/compulim/react-scroll-to-bottom-updated/issues"
   },
-  "homepage": "https://github.com/compulim/react-scroll-to-bottom#readme",
+  "homepage": "https://github.com/compulim/react-scroll-to-bottom-updated#readme",
   "devDependencies": {
     "@babel/cli": "^7.15.7",
     "@babel/core": "^7.15.8",

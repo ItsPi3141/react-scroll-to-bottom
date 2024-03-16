@@ -4,10 +4,10 @@ import useInternalContext from './internal/useInternalContext';
 
 export default function useObserveScrollPosition(observer, deps = []) {
   if (observer && typeof observer !== 'function') {
-    console.error('react-scroll-to-bottom: First argument passed to "useObserveScrollPosition" must be a function.');
+    console.error('react-scroll-to-bottom-updated-updated: First argument passed to "useObserveScrollPosition" must be a function.');
   } else if (!Array.isArray(deps)) {
     console.error(
-      'react-scroll-to-bottom: Second argument passed to "useObserveScrollPosition" must be an array if specified.'
+      'react-scroll-to-bottom-updated-updated: Second argument passed to "useObserveScrollPosition" must be an array if specified.'
     );
   }
 
